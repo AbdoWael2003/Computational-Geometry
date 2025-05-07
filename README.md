@@ -20,7 +20,7 @@ This project contains multiple classic **Convex Hull algorithms** implemented in
 
 ## 📂 Project Structure
 
-/ConvexHullAlgorithms
+ConvexHullAlgorithms
 ├── DivideAndConquer.cs
 ├── ExtremePoints.cs
 ├── ExtremeSegments.cs
@@ -28,7 +28,7 @@ This project contains multiple classic **Convex Hull algorithms** implemented in
 ├── Incremental.cs
 ├── JarvisMarch.cs
 ├── QuickHull.cs
-└── PolygonTriangulation/
+└── PolygonTriangulation
 
 
 ---
